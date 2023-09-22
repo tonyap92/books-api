@@ -1,7 +1,5 @@
 
-
-![bandicam-2023-09-17-21-14-18-538](https://github.com/tonyap92/books-api/assets/114396404/e4e30b9d-bab0-4dc2-890c-546b065cadb4)
-
+https://github.com/tonyap92/books-api/assets/114396404/f94d142a-1d29-4e1e-bb1a-809ccd738d82
 
 # Nuxt 3 Minimal Starter
 
